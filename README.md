@@ -38,3 +38,31 @@ Platforms:
   - picoCTF
 Goal:
   - Build strong fundamentals in cybersecurity
+```
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonOfTroll&theme=github_dark" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonOfTroll&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SonOfTroll&theme=github_dark&utcOffset=5.5" width="48%" />
+
+</div>
+
+---
+
+### 💻 Language Distribution
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonOfTroll&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonOfTroll&theme=github_dark" width="48%" />
+
+</div>
