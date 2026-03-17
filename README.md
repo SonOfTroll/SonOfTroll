@@ -60,5 +60,5 @@ Goal:
 ## 💻 Language Focus
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfTroll&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfTroll&layout=compact&theme=tokyonight&hide=html,css&langs_count=6&v=1" />
 </div>
