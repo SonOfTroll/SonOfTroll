@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;CTF+Player;Backend+Learner;Always+Exploring&font=Fira+Code&center=true&width=700&height=50&color=00ffcc&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;CTF+Player;Network+Security+Learner;System+Level+Explorer;Always+Improving&font=Fira+Code&center=true&width=700&height=50&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </div>
 
-<h3 align="center">💻 Cybersecurity | Networking | Backend | CTF</h3>
+<h3 align="center">💻 Cybersecurity | Networking | Systems</h3>
 
 ---
 
@@ -29,12 +29,12 @@ Focus:
   - Network Security
   - Vulnerability Analysis
   - System Fundamentals
-  - Backend Development
+  - Recon & Enumeration (Learning)
 Learning:
   - C Programming
   - Operating Systems
-  - Web Security Basics
+  - Web Security Concepts
 Platforms:
   - picoCTF
 Goal:
-  - Become a skilled security engineer
+  - Build strong fundamentals in cybersecurity
