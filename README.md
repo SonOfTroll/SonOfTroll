@@ -57,12 +57,8 @@ Goal:
 </div>
 
 ---
-
-### 💻 Language Distribution
+## 💻 Language Focus
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonOfTroll&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonOfTroll&theme=github_dark" width="48%" />
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfTroll&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
 </div>
