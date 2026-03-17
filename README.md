@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=SonOfTroll&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kishan%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 ## 🧠 About Me
 
 ```yaml
-Name: SonOfTroll
+Name: Kishan Pandey
 Role: Cybersecurity Student
 Focus:
   - Network Security
