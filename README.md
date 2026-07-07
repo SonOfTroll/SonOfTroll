@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=KISHAN%20PANDEY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20%7C%20DevOps%20%2F%20SRE%20%7C%20Zero%20Trust%20Architecture&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=KISHAN%20PANDEY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20%26%20Cloud%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Zero+Trust+Security+Systems;Automating+Infrastructure+that+Self-Heals;Breaking+Things+to+Make+Them+Unbreakable;Cybersecurity+%7C+DevOps+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Zero+Trust+Security+Systems;Auditing+Cloud+Infrastructure+for+Misconfigurations;Breaking+Networks+to+Understand+Them;200%2B+CTF+Challenges+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/KIET%20Group%20of%20Institutions-Batch%202027-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/KIET%20Group%20of%20Institutions-2023%20--%202027-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.05%20%2F%2010-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Location-India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/sonoftroll"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/val3nt1n3-d4c"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pandeykishan233@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=6D28D9&label=STARS&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=sonoftroll&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/sonoftroll?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/sonoftroll?style=flat-square&color=6D28D9&label=STARS&logo=github"/>
 
 </div>
 
@@ -32,22 +32,21 @@
 ## About Me
 
 ```yaml
-whoami: Kishan Pandey ("Dio")
-role: Security Engineer | DevOps & SRE | Zero Trust Enthusiast
-focus: Cybersecurity, Cloud Infrastructure, AI-Assisted Automation
-education: B.Tech CSE, KIET Group of Institutions (2027)
+whoami: Kishan Pandey
+role: Cybersecurity Engineer | Zero Trust & Cloud Security
+focus: Network Security, Cloud Auditing, Breach Simulation
+education: B.Tech CSE, KIET Group of Institutions (2023 - 2027) — CGPA 7.05/10
 ```
 
-I'm a Computer Science undergraduate specializing in **offensive & defensive security engineering**, **cloud-native DevOps**, and **Zero Trust architecture**. My work sits at the intersection of building resilient infrastructure and actively trying to break it — vulnerability research, workflow security auditing, and self-healing systems design.
+I'm a Computer Science undergraduate focused on **cybersecurity engineering** — building tools that model, audit, and stress-test security architectures rather than just theorize about them. My project work spans Zero Trust policy design and breach simulation, AWS cloud security auditing against CIS Benchmarks, and low-level network reconnaissance and vulnerability scanning.
 
-I design systems assuming they will be attacked: least-privilege access, policy-as-code enforcement (OPA), continuous auditing, and automated recovery. I hold an **AWS Certified Cloud Practitioner** certification, compete in CTFs with **ByteHunters**, and have contributed upstream fixes to production Go networking code.
+I hold an **AWS Certified Cloud Practitioner** certification and compete actively in CTFs with **ByteHunters**, with 200+ challenges solved across HackTheBox and TryHackMe.
 
 **Open To:**
 
 - Cybersecurity / VAPT internships (paid, non-Internshala)
-- DevOps & Site Reliability Engineering roles
-- Zero Trust / Cloud Security engineering opportunities
-- Open-source security tooling collaboration
+- Cloud security & IAM-focused engineering roles
+- Zero Trust architecture and security tooling opportunities
 
 ---
 
@@ -55,197 +54,102 @@ I design systems assuming they will be attacked: least-privilege access, policy-
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,cpp,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark"/>
 
-**Frontend**
+**Security Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=kali,wireshark,linux,git&theme=dark"/>
 
-**Backend & Databases**
+**Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,express,postgres,mongodb,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,postgres,redis&theme=dark"/>
 
-**Cloud, DevOps & Security Tooling**
+**Cloud, IAM & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana,prometheus,linux,git,githubactions&theme=dark"/>
-
----
-
-## AI / ML & Security Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Zero Trust Architecture | Advanced | Policy-as-code with OPA, JWT-based auth, continuous verification design |
-| Vulnerability Assessment & Pentesting | Advanced | Recon automation, DoS/race-condition discovery, exploit validation |
-| Cloud Security (AWS) | Intermediate–Advanced | IAM hardening, audit tooling, AWS Certified Cloud Practitioner |
-| Applied AI for Security Tooling | Intermediate | LLM-assisted config auditing, anomaly detection workflows |
-| Infrastructure Automation | Advanced | n8n workflow orchestration, self-healing SRE pipelines |
-| Container & Workflow Security | Intermediate | GitHub Actions supply-chain analysis via `sisakulint` |
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark"/>
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>🔐 ZTForge — Zero Trust Policy Engine</b></summary>
+<summary><b>🔐 ZTForge — Zero Trust Architecture Designer & Breach Simulator</b></summary>
 
 <br/>
 
-A Zero Trust configuration and enforcement framework combining policy-as-code with runtime identity verification.
+*Mar 2026 – May 2026*
+
+A full-stack platform to visually model Zero Trust architectures and run deterministic breach simulations.
 
 | Category | Detail |
 |---|---|
-| Stack | Python, Open Policy Agent (OPA), JWT, REST APIs |
-| Scale | Multi-service policy evaluation engine |
-| Performance | Sub-100ms policy decision latency |
-| Security | Least-privilege enforcement, continuous auth verification |
-| Impact | Reference implementation for Zero Trust access control |
-| Repository | `github.com/yourusername/ztforge` |
+| Stack | Python, FastAPI, React, Keycloak (OIDC), Open Policy Agent (OPA), PostgreSQL, Redis, Docker |
+| Scale | 15+ test scenarios across simulated attack paths |
+| Performance | Graph-traversal simulation engine with real-time risk scoring |
+| Security | RS256 JWT validation via Keycloak JWKS with key rotation, RBAC, per-user Redis rate limiting, OPA default-deny policy evaluation |
+| Impact | Blocked 100% of simulated lateral movement paths; reduced policy misconfiguration surface by ~40% vs. an allow-all baseline; cut manual policy review time by ~60% in internal benchmarks |
+| Repository | `github.com/sonoftroll/ztforge` |
 
-Designed to evaluate access requests against dynamic trust policies rather than static perimeter rules, reflecting real enterprise Zero Trust adoption patterns.
+Simulates stolen-credential (MITRE ATT&CK T1078), insider-threat (T1136), and privilege-escalation (T1068) scenarios, enforcing NIST 800-207 policies across graph edges. Produces exportable policy artifacts in OPA Rego, Terraform, and iptables formats.
 
 </details>
 
 <details>
-<summary><b>🕵️ ShadowProbe — VAPT & Recon Toolkit</b></summary>
+<summary><b>☁️ CloudForge-Auditor — AWS Cloud Security & Compliance Auditor</b></summary>
 
 <br/>
 
-An automated vulnerability assessment and penetration testing reconnaissance tool for surfacing exposed attack surfaces.
+*Apr 2026 – May 2026*
+
+A read-only AWS security auditor built around a zero false-positive design philosophy.
 
 | Category | Detail |
 |---|---|
-| Stack | Python, Async I/O, Custom Fingerprinting Modules |
-| Scale | Bulk target scanning with concurrent workers |
-| Performance | Parallelized recon reducing scan time significantly |
-| Security | Passive & active recon with safe-scan modes |
-| Impact | Used in personal CTF prep and audit workflows |
-| Repository | `github.com/yourusername/shadowprobe` |
+| Stack | Python, Boto3, AWS (IAM, S3, EC2, CloudTrail), CIS Benchmarks |
+| Scale | 30+ CIS Benchmark controls mapped across IAM, S3, EC2, and CloudTrail |
+| Performance | Scans a typical 3-service AWS account in under 90 seconds |
+| Security | Detects 8 critical misconfiguration categories, including missing root MFA, public S3 exposure, unrestricted 0.0.0.0/0 security groups, stale IAM keys, and disabled CloudTrail logging |
+| Impact | Identified 12 critical findings on a test AWS environment in its first run |
+| Repository | `github.com/sonoftroll/cloudforge-auditor` |
 
-Built to accelerate the reconnaissance phase of security assessments while minimizing false positives through layered fingerprinting.
+Generates prioritized CSV/HTML remediation reports designed for direct handoff to cloud infrastructure teams.
 
 </details>
 
 <details>
-<summary><b>🐳 DockOps — Containerized Monitoring Stack</b></summary>
+<summary><b>🕵️ ShadowProbe — Network Reconnaissance & Vulnerability Scanner</b></summary>
 
 <br/>
 
-A containerization and observability stack for deploying monitored, production-style services.
+*Feb 2026 – Mar 2026*
+
+A modular network reconnaissance and vulnerability scanning framework.
 
 | Category | Detail |
 |---|---|
-| Stack | Docker, Docker Compose, Prometheus, Grafana |
-| Scale | Multi-container orchestrated deployment |
-| Performance | Real-time metrics with low-overhead exporters |
-| Security | Isolated network segmentation per service |
-| Impact | Foundation for self-healing SRE infrastructure project |
-| Repository | `github.com/yourusername/dockops` |
+| Stack | Python, Scapy, Socket Programming, TCP/IP, DNS, Nmap, Kali Linux |
+| Scale | ICMP/ARP host discovery, TCP-connect, SYN half-open (stealth), and UDP port scanning |
+| Performance | Scans a /24 subnet in under 45 seconds vs. 3+ minutes with a naive sequential approach |
+| Security | Service fingerprinting via banner grabbing across 25+ protocol signatures with a local CVE/CVSS signature database |
+| Impact | Reduced manual triage time by ~50% in lab testing vs. raw Nmap output |
+| Repository | `github.com/sonoftroll/shadowprobe` |
 
-Provides the observability backbone used across subsequent SRE and infrastructure automation projects.
-
-</details>
-
-<details>
-<summary><b>☁️ CloudForge-Auditor — Cloud Configuration Auditing</b></summary>
-
-<br/>
-
-An auditing tool for identifying misconfigurations and compliance drift in cloud environments.
-
-| Category | Detail |
-|---|---|
-| Stack | Python, AWS SDK (Boto3), Custom Rule Engine |
-| Scale | Account-wide resource scanning |
-| Performance | Batched API calls to respect rate limits |
-| Security | Flags IAM over-permissioning and public exposure |
-| Impact | Practical AWS security hardening reference tool |
-| Repository | `github.com/yourusername/cloudforge-auditor` |
-
-Built around the same audit-first philosophy applied to network Zero Trust, extended to cloud resource configuration.
-
-</details>
-
-<details>
-<summary><b>🌐 RootScope — Network Visibility Tool</b></summary>
-
-<br/>
-
-A network analysis and visibility tool for mapping and inspecting infrastructure topology.
-
-| Category | Detail |
-|---|---|
-| Stack | Python, NetworkX, Cytoscape.js |
-| Scale | Graph-based topology modeling |
-| Performance | Interactive rendering of large network graphs |
-| Security | Surfaces unexpected lateral connectivity paths |
-| Impact | Precursor to ZTLens Zero Trust auditor concept |
-| Repository | `github.com/yourusername/rootscope` |
-
-Focused on making network topology and trust boundaries visually inspectable rather than buried in configuration files.
-
-</details>
-
-<details>
-<summary><b>🎯 LeadFinder — Web Design Prospecting CLI</b></summary>
-
-<br/>
-
-A Node.js command-line tool for identifying and qualifying web design prospects for freelance outreach.
-
-| Category | Detail |
-|---|---|
-| Stack | Node.js, CLI Frameworks, Web Scraping APIs |
-| Scale | Batch prospect discovery and filtering |
-| Performance | Fast local execution with configurable scan depth |
-| Security | Rate-limited, respectful scraping practices |
-| Impact | Supports independent freelance web development pipeline |
-| Repository | `github.com/yourusername/leadfinder` |
-
-Applies the same automation-first mindset from security tooling to a practical business-development workflow.
+Outputs structured JSON and HTML reports with severity ratings for fast prioritization of findings.
 
 </details>
 
 ---
 
-## Experience
-
-**Open-Source Contributor — Go Networking Codebase**
-`Independent Contribution`
-
-Identified and resolved two denial-of-service vulnerabilities in a production Go networking library, contributed upstream and merged.
-
-- Diagnosed a missing read-deadline vulnerability enabling connection exhaustion attacks
-- Fixed unbounded goroutine spawning causing resource-exhaustion DoS conditions
-- Validated fixes against reproduction cases before submission
-
-`Go` `Concurrency` `Network Security` `Open Source`
-
-<br/>
-
-**Cybersecurity & DevOps Project Engineer — Independent / Academic**
-`Ongoing`
-
-Designed and built multiple production-style security and infrastructure projects spanning Zero Trust access control, VAPT tooling, and self-healing SRE systems.
-
-- Built a self-healing SRE infrastructure stack with Flask/Gunicorn, Docker Compose, Ansible, Prometheus & Grafana, and GitHub Actions CI/CD
-- Ran `sisakulint` workflow security analysis across GitHub organizations, surfacing supply-chain and credential exposure risks
-- Developed ZTLens, an AI-assisted Zero Trust configuration auditor for Cisco network environments
-
-`Python` `Docker` `Ansible` `Prometheus` `Grafana` `CI/CD` `Zero Trust`
-
----
-
-## Achievements
+## Co-Curricular & Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| SuRaksha Hackathon — Canara Bank | Competed with GhostAudit, an adversarial AI red-team agent concept for banking compliance blind spots |
-| Open Source Contribution | Merged DoS vulnerability fixes into a production Go networking codebase |
-| AWS Certified Cloud Practitioner | Validated foundational cloud architecture & security knowledge |
-| Competitive CTF Player | Active member of ByteHunters CTF team |
+| ByteHunters CTF Team | Active competitor in national and online CTF competitions across web exploitation, binary exploitation, cryptography, and forensics |
+| HackTheBox | 200+ challenges solved combined with TryHackMe; ranked in the top 5–6% globally on HackTheBox |
+| TryHackMe | Hands-on exploitation experience in privilege escalation, OSINT, reverse engineering, and network forensics |
+| AWS Certified Cloud Practitioner | Amazon Web Services, 2025 |
 
 </div>
 
@@ -255,30 +159,16 @@ Designed and built multiple production-style security and infrastructure project
 
 **AWS**
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Certification-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner%20(2025)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ---
 
-## Coding Profiles
+## Coding & Security Profiles
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 
 </div>
 
@@ -288,10 +178,10 @@ Designed and built multiple production-style security and infrastructure project
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sonoftroll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonoftroll&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoftroll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -301,7 +191,7 @@ Designed and built multiple production-style security and infrastructure project
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sonoftroll&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&column=7"/>
 
 </div>
 
@@ -311,7 +201,7 @@ Designed and built multiple production-style security and infrastructure project
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonoftroll&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
 
 </div>
 
@@ -321,7 +211,7 @@ Designed and built multiple production-style security and infrastructure project
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sonoftroll/sonoftroll/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -332,23 +222,21 @@ Designed and built multiple production-style security and infrastructure project
 ```yaml
 learning:
   - Advanced Zero Trust architecture patterns
-  - AI-assisted security automation
-  - Distributed systems reliability engineering
+  - AWS IAM and cloud security hardening
+  - Offensive security techniques via CTFs
 
 building:
-  - ZTLens: AI-driven Zero Trust configuration auditor for Cisco networks
-  - Self-healing SRE infrastructure with automated remediation
-  - n8n-based automation stack (Anthropic API, Gmail, Cal.com, Airtable)
+  - Expanding ZTForge's breach simulation coverage
+  - Additional CIS Benchmark controls for CloudForge-Auditor
 
 exploring:
-  - Cisco Ideathon / Technical Consulting Engineer pathway
-  - Supply-chain security in CI/CD workflows
-  - SSC CGL 2027 as a parallel career track
+  - Deeper packet-level analysis and protocol fingerprinting
+  - VAPT internship and cloud security engineering opportunities
 
 open_to:
   - Cybersecurity & VAPT internships
-  - DevOps / SRE engineering roles
-  - Zero Trust & cloud security collaborations
+  - Cloud security / IAM engineering roles
+  - Zero Trust architecture collaborations
 ```
 
 ---
@@ -357,10 +245,9 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:pandeykishan233@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/val3nt1n3-d4c"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sonoftroll"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -368,7 +255,7 @@ open_to:
 
 <div align="center">
 
-*"Assume breach. Verify everything. Automate the recovery."*
+*"Assume breach. Verify everything. Audit before you trust."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
